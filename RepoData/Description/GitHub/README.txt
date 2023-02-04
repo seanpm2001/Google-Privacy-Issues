@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🚫️📄️🚫️ An article on Googles privacy issues, and why you should lower your footprint/DeGoogle
